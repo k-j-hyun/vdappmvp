@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# 다운로드 폴더
+downloads/
+*.mp4
+*.webm
+*.mkv
+
+# 쿠키 파일
+cookies.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# FFmpeg 바이너리 (용량 큼)
+ffmpeg-*/
+*.exe
+*.dll
+
+# 기타
+*.log
+temp_*
